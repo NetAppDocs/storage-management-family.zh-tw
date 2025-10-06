@@ -1,6 +1,7 @@
 ---
 settings:
   name: NetApp Console storage management
+  search: console-relnotes,console-setup-admin,storage-management-cloud-volumes-ontap,storage-management-ontap-onprem,storage-management-azure-netapp-files,storage-management-fsx-ontap,storage-management-cloud-volumes-service-gcp,data-services-backup-recovery,data-services-copy-sync,data-services-classification,data-services-cloud-tiering,data-services-replication,console-automation,cloud-volumes-ontap-relnotes,storage-management-storagegrid,storage-management-e-series,storage-management-s3-storage,console-lifecycle-planning,console-license-subscriptions,storage-management-blob-storage,console-volume-caching,data-services-disaster-recovery,storage-management-blob-storage,storage-management-google-cloud-storage,netapp-automation,data-services-ransomware-protection,console-software-updates,console-alerts,workload-setup-admin,workload-fsx-ontap,workload-databases,workload-genai,workload-vmware
   internal:
     pdf_enabled: false
     lipi_enabled: true

@@ -1,0 +1,94 @@
+---
+product-family:
+  title: NetApp控制台儲存管理
+  lead: NetApp控制台提供跨本機和多雲環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全性的管理。按儲存產品瀏覽或使用搜尋。
+  summary: NetApp控制台提供跨本機和多雲環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全管理。按儲存產品瀏覽或使用搜尋。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: AWS
+    tags: aws
+  - title: Azure
+    tags: azure
+  - title: Google雲
+    tags: gcp
+  - title: NetApp資料服務
+    tags: data services
+  - title: NetApp控制台
+    tags: console
+  - title: 本地
+    tags: on-prem
+  - title: 儲存訂閱
+    tags: subscriptions
+  tiles:
+  - title: 發行說明
+    icon: "./media/icon-docs.png"
+    url: "../console-relnotes/index.html"
+    summary: 了解NetApp控制台儲存管理和NetApp資料服務的新功能。
+    tags: all
+  - title: NetApp控制台管理
+    icon: "./media/icon-admin.png"
+    url: "../console-setup-admin/index.html"
+    summary: 了解如何開始使用NetApp控制台並管理身分和存取管理、代理程式等。
+    tags: all,connectors,iam
+  - title: NetApp資料服務
+    icon: "./media/icon-storagegrid.png"
+    url: "../data-services-family/index.html"
+    summary: 探索NetApp資料服務，以保護您的資料基礎架構。
+    tags: all,data services
+  - title: Amazon FSx for NetApp ONTAP
+    icon: "./media/icon-fsx.png"
+    url: "../storage-management-fsx-ontap/index.html"
+    summary: 將ONTAP的全部功能用作原生的 AWS 託管服務。
+    tags: all, aws
+  - title: Amazon S3 存儲
+    icon: "./media/icon-s3.png"
+    url: "../storage-management-s3-storage/index.html"
+    summary: 發現並管理您的 AWS 帳戶中的 Amazon S3 儲存桶。
+    tags: all,aws
+  - title: Azure Blob 儲存
+    icon: "./media/icon-azure-blob.png"
+    url: "../storage-management-blob-storage/index.html"
+    summary: 在 Azure 訂閱中發現並管理 Azure Blob 儲存體。
+    tags: all,azure
+  - title: Azure NetApp Files
+    icon: "./media/icon-anf.png"
+    url: "../storage-management-azure-netapp-files/index.html"
+    summary: Azure 中適用於您的核心業務應用程式的高效能檔案儲存服務。
+    tags: all,storage,azure
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: "../storage-management-cloud-volumes-ontap/index.html"
+    summary: 讓您的雲端儲存更經濟、更智慧、更合規、更安全。
+    tags: all,storage,aws,azure,gcp, subscriptions
+  - title: E系列系統
+    icon: "./media/icon-e-series.png"
+    url: "../storage-management-e-series/index.html"
+    summary: 探索 E 系列系統，全面了解混合多雲中的數據。
+    tags: all,on-prem
+  - title: Google Cloud NetApp Volumes
+    icon: "./media/icon-cvs.png"
+    url: "../storage-management-google-cloud-netapp-volumes/index.html"
+    summary: 保護、保障和加速您的文件儲存。
+    tags: all,storage,gcp
+  - title: Google 雲端儲存
+    icon: "./media/icon-google-cloud-storage.png"
+    url: "../storage-management-google-cloud-storage/index.html"
+    summary: 發現並管理您的 Google 帳戶中的雲端儲存桶。
+    tags: all,gcp
+  - title: Keystone
+    icon: "./media/icon-keystone.png"
+    url: "../keystone-staas/index.html"
+    summary: 從NetApp控制台存取並管理您的Keystone訂閱。
+    tags: all,subscriptions
+  - title: 本地ONTAP集群
+    icon: "./media/icon-onprem.png"
+    url: "../storage-management-ontap-onprem/index.html"
+    summary: 使用系統管理器和NetApp資料服務從NetApp控制台管理您的本機ONTAP叢集。
+    tags: all,on-prem
+  - title: StorageGRID
+    icon: "./media/icon-storagegrid.png"
+    url: "../storage-management-storagegrid/index.html"
+    summary: 管理您的StorageGRID系統。
+    tags: all,on-prem

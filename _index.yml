@@ -31,7 +31,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: 了解如何開始使用NetApp控制台並管理身分和存取管理、代理程式等。
-    tags: all,connectors,iam
+    tags: all,console
   - title: NetApp資料服務
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
@@ -70,7 +70,7 @@ product-family:
   - title: Google Cloud NetApp Volumes
     icon: "./media/icon-cvs.png"
     url: "../storage-management-google-cloud-netapp-volumes/index.html"
-    summary: 保護、保障和加速您的文件儲存。
+    summary: Google Cloud 中的高效能文件儲存服務。
     tags: all,storage,gcp
   - title: Google 雲端儲存
     icon: "./media/icon-google-cloud-storage.png"

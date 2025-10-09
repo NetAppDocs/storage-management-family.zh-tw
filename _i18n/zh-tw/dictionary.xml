@@ -29,7 +29,6 @@
   <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">E系列系統</block>
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">探索 E 系列系統，全面了解混合多雲中的數據。</block>
   <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp Volumes</block>
-  <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">保護、保障和加速您的文件儲存。</block>
   <block id="833c2c211a541e50ad94433664e4b5c1" category="sidebar">Google 雲端儲存</block>
   <block id="195aba5a6e7c41123fc8903b34a99aeb" category="sidebar">發現並管理您的 Google 帳戶中的雲端儲存桶。</block>
   <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
@@ -39,4 +38,5 @@
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="a36df6033de16c49cfa4f18bcdec18c4" category="sidebar">管理您的StorageGRID系統。</block>
   <block id="228961654a1973046cdceb22f94daf65" category="sidebar">NetApp控制台儲存管理文檔</block>
+  <block id="d24825ead411a6f92b29a5f05bd8ef33" category="sidebar">Google Cloud 中的高效能文件儲存服務。</block>
 </blocks>

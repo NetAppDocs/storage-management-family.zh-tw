@@ -21,5 +21,5 @@ settings:
   langs: zh-tw,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-cn
 sidebar:
   entries:
-  - title: NetApp控制台儲存管理文檔
+  - title: NetApp Console儲存管理文檔
     url: "/index.html"

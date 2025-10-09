@@ -1,8 +1,8 @@
 ---
 product-family:
-  title: NetApp控制台儲存管理
-  lead: NetApp控制台提供跨本機和多雲環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全性的管理。按儲存產品瀏覽或使用搜尋。
-  summary: NetApp控制台提供跨本機和多雲環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全管理。按儲存產品瀏覽或使用搜尋。
+  title: NetApp Console儲存管理
+  lead: NetApp Console提供跨本機和多雲環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全性的管理。按儲存產品瀏覽或使用搜尋。
+  summary: NetApp Console提供跨本機和多雲環境的儲存和資料服務的集中管理。它提供統一的控制、操作簡單性和安全管理。按儲存產品瀏覽或使用搜尋。
   sidebarlinks:
   - title: 全部
     tags: all
@@ -13,9 +13,9 @@ product-family:
     tags: azure
   - title: Google雲
     tags: gcp
-  - title: NetApp資料服務
+  - title: NetApp Data Services
     tags: data services
-  - title: NetApp控制台
+  - title: NetApp Console
     tags: console
   - title: 本地
     tags: on-prem
@@ -25,14 +25,14 @@ product-family:
   - title: 發行說明
     icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
-    summary: 了解NetApp控制台儲存管理和NetApp資料服務的新功能。
+    summary: 了解NetApp Console儲存管理和NetApp資料服務的新功能。
     tags: all
-  - title: NetApp控制台管理
+  - title: NetApp Console管理
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: 了解如何開始使用NetApp控制台並管理身分和存取管理、代理程式等。
+    summary: 了解如何開始使用NetApp Console並管理身分識別和存取管理、代理程式等。
     tags: all,console
-  - title: NetApp資料服務
+  - title: NetApp Data Services
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
     summary: 探索NetApp資料服務，以保護您的資料基礎架構。
@@ -80,12 +80,12 @@ product-family:
   - title: Keystone
     icon: "./media/icon-keystone.png"
     url: "../keystone-staas/index.html"
-    summary: 從NetApp控制台存取並管理您的Keystone訂閱。
+    summary: 從NetApp Console存取並管理您的Keystone訂閱。
     tags: all,subscriptions
   - title: 本地ONTAP集群
     icon: "./media/icon-onprem.png"
     url: "../storage-management-ontap-onprem/index.html"
-    summary: 使用系統管理器和NetApp資料服務從NetApp控制台管理您的本機ONTAP叢集。
+    summary: 使用系統管理器和NetApp資料服務從NetApp Console管理您的本機ONTAP叢集。
     tags: all,on-prem
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"

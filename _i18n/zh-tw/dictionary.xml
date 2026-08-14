@@ -39,4 +39,6 @@
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="a36df6033de16c49cfa4f18bcdec18c4" category="sidebar">管理您的StorageGRID系統。</block>
   <block id="228961654a1973046cdceb22f94daf65" category="sidebar">NetApp Console儲存管理文檔</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作負載</block>
+  <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">實現 FSx for ONTAP 的自動化配置、治理和生命週期。探索成本節約效益和進階管理。</block>
 </blocks>

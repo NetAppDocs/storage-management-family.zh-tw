@@ -1,16 +1,16 @@
 ---
 settings:
   name: NetApp Console storage management
-  search: console-alerts, storage-management-s3-storage, console-automation, storage-management-azure-netapp-files,
-    data-services-backup-recovery, storage-management-blob-storage, data-services-data-classification,
-    storage-management-cloud-volumes-ontap, storage-management-google-cloud-netapp-volumes,
-    data-services-data-classification, data-services-copy-sync, active-iq, console-licenses-subscriptions,
-    data-services-disaster-recovery, storage-management-e-series, console-lifecycle-planning,
-    storage-management-fsx-ontap, storage-management-google-cloud-storage, storage-management-ontap-onprem,
-    data-services-ransomware-resilience, console-relnotes,data-services-replication,
-    console-setup-admin, console-software-updates, storage-management-storagegrid,
-    data-services-cloud-tiering, console-volume-caching, workload-setup-admin,workload-fsx-ontap,workload-databases,workload-genai,workload-vmware,
-    keystone-staas
+  search: console-alerts, storage-management-workloads,storage-management-s3-storage,
+    console-automation, storage-management-azure-netapp-files, data-services-backup-recovery,
+    storage-management-blob-storage, data-services-data-classification, storage-management-cloud-volumes-ontap,
+    storage-management-google-cloud-netapp-volumes, data-services-data-classification,
+    data-services-copy-sync, active-iq, console-licenses-subscriptions, data-services-disaster-recovery,
+    storage-management-e-series, console-lifecycle-planning, storage-management-fsx-ontap,
+    storage-management-google-cloud-storage, storage-management-ontap-onprem, data-services-ransomware-resilience,
+    console-relnotes,data-services-replication, console-setup-admin, console-software-updates,
+    storage-management-storagegrid, data-services-cloud-tiering, console-volume-caching,
+    workload-setup-admin,workload-fsx-ontap,workload-databases,workload-vmware, keystone-staas
   internal:
     pdf_enabled: false
     lipi_enabled: true

@@ -21,8 +21,6 @@ product-family:
     tags: on-prem
   - title: 儲存訂閱
     tags: subscriptions
-  - title: 工作負載
-    tags: workloads
   tiles:
   - title: 發行說明
     icon: "./media/icon-docs.png"
@@ -94,8 +92,3 @@ product-family:
     url: "../storage-management-storagegrid/index.html"
     summary: 管理您的StorageGRID系統。
     tags: all,on-prem
-  - title: 工作負載
-    icon: "./media/icon-workloads.png"
-    url: "../workload-family"
-    summary: 實現 FSx for ONTAP 的自動化配置、治理和生命週期。探索成本節約效益和進階管理。
-    tags: all,workloads
